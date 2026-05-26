@@ -1,0 +1,16 @@
+ultralytics
+fastapi
+uvicorn
+websockets
+opencv-python
+google-genai
+python-dotenv
+pyaudio
+pyttsx3
+numpy
+httpx
+requests
+geocoder
+SpeechRecognition
+elevenlabs
+pywin32
